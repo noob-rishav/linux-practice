@@ -1,0 +1,1 @@
+data here written are some bash scripts for backup purposes. The script is designed to automate the process of backing up important files and directories to a specified location. It includes options for incremental backups, compression, and logging of backup activities.

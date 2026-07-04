@@ -1,0 +1,1 @@
+my system is acer aspire lite with intel i-5 and 16 gb ram and so and so.

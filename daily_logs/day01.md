@@ -1,0 +1,3 @@
+# what i learnt today ...
+1. firstly i learnt about the git and github basics 
+2. git different commands such as git int, add, commit, push, pull, reset, log and many more
