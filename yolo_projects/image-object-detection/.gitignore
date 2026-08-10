@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+
+# Output folder
+output/*
+!output/.gitkeep
+
+# VS Code
+.vscode/
